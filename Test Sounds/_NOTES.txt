@@ -1,0 +1,31 @@
+acousticguitar.aif is Strummed Acoustic 04 (replaces guitarloop1)
+-- clean, strumming pattern
+
+constanttone.aif
+-- 440Hz sawtooth
+
+drumpattern.aif is Live Edgy Drums 03
+
+drumwithnoise.aif
+-- good for gating
+
+drumwithreverb.aif
+-- good for gating
+
+electricguitar.aif is my own recording
+-- for distorting
+
+leftrightEP.aif is Deep Electric Piano 01 and 05 monoed, faded at the ends, amplified and pasted left and right
+-- separate left and right for purposes of checking meters etc.
+
+leftrightsynth.aif is Mini Mono Synth 03 and 05 monoed, amplified and pasted left and right
+-- simultaneous left and right for treating as separate sounds in mix
+
+mandolin.aif is Folk Mandolin 07 faded/trimmed
+-- picking - maybe for distorting
+
+metronome.aif
+-- good for testing reverb etc
+
+stereosynth.aif is Synth Swirl 01 faded/trimmed
+-- heavy stereo, good for width control etc.

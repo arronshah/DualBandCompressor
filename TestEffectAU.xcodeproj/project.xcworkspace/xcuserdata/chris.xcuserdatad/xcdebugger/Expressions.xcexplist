@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "JuceDemoPluginAudioProcessor::processBlock(juce::AudioSampleBuffer&amp;, juce::MidiBuffer&amp;):PluginProcessor.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "(StkFloat[100])frames.data_">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MyVoice::onStartNote(int, float):SynthPlugin.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Wavetable::operator=(Envelope const&amp;):PluginWrapper.h">
+         <PersistentStrings>
+            <PersistentString
+               value = "new_envelope">
+            </PersistentString>
+            <PersistentString
+               value = "SAMPLE_RATE">
+            </PersistentString>
+            <PersistentString
+               value = "data_[2047]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MyVoice::renderNextBlock(stk::StkFrames&amp;, int):SynthPlugin.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Envelope::set(Envelope::Nodes&amp;):PluginWrapper.h">
+      </ContextState>
+      <ContextState
+         contextName = "Voice::renderNextBlock(juce::AudioSampleBuffer&amp;, int, int):PluginWrapper.h">
+         <PersistentStrings>
+            <PersistentString
+               value = "pBuffer">
+            </PersistentString>
+            <PersistentString
+               value = "pSample">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AUBase::DoRender(unsigned long&amp;, AudioTimeStamp const&amp;, unsigned long, unsigned long, AudioBufferList&amp;):AUBase.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "output-&gt;mIOBuffer.mMemory">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "stk::FileLoop::tick(unsigned int):FileLoop.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "time_">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PluginAudioProcessorEditor::timerCallback():PluginEditor.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Wavetable::generate(float (*)(float)):PluginWrapper.h">
+         <PersistentStrings>
+            <PersistentString
+               value = "data_.data_[1024 * 2 + 0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "stk::StkFrames::interpolate(float, unsigned int) const:Stk.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "nFrames_">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Wavetable::tick(float):PluginWrapper.h">
+         <PersistentStrings>
+            <PersistentString
+               value = "phase">
+            </PersistentString>
+            <PersistentString
+               value = "bufTimes[bufferPos-1]">
+            </PersistentString>
+            <PersistentString
+               value = "bufSamples[11]">
+            </PersistentString>
+            <PersistentString
+               value = "time_">
+            </PersistentString>
+            <PersistentString
+               value = "bufferPos">
+            </PersistentString>
+            <PersistentString
+               value = "bufSamples[bufferPos]">
+            </PersistentString>
+            <PersistentString
+               value = "bufPhases[11]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Wavetable::tick():PluginWrapper.h">
+         <PersistentStrings>
+            <PersistentString
+               value = "sample">
+            </PersistentString>
+            <PersistentString
+               value = "data_.data_[2048 * 2 + 1]">
+            </PersistentString>
+            <PersistentString
+               value = "data_.data_[2049 * 2 + 0]">
+            </PersistentString>
+            <PersistentString
+               value = "data_.data_[2047 * 2 + 0]">
+            </PersistentString>
+            <PersistentString
+               value = "data_">
+            </PersistentString>
+            <PersistentString
+               value = "time_">
+            </PersistentString>
+            <PersistentString
+               value = "data_.data_[2048 * 2 + 0]">
+            </PersistentString>
+            <PersistentString
+               value = "data_.data_[2047 * 2 + 1]">
+            </PersistentString>
+            <PersistentString
+               value = "rate_">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SawWave::setFrequency(float):SynthExtra.h">
+         <PersistentStrings>
+            <PersistentString
+               value = "SAMPLE_RATE">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PluginAudioProcessor::getStateInformation(juce::MemoryBlock&amp;):PluginProcessor.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "kNumberOfParameters">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Envelope::set(Envelope::Points const&amp;):PluginWrapper.h">
+         <PersistentStrings>
+            <PersistentString
+               value = "points">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "createPluginFilterOfType(juce::AudioProcessor::WrapperType):juce_PluginUtilities.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "JuceAU::ProcessBufferLists(unsigned long&amp;, AudioBufferList const&amp;, AudioBufferList&amp;, unsigned long):juce_AU_Wrapper.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "channels">
+            </PersistentString>
+            <PersistentString
+               value = "numOut">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "juce::AudioSampleBuffer::addFrom(int, stk::StkFrames&amp;, int, float):juce_AudioSampleBuffer.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Envelope::initialise():PluginWrapper.h">
+         <PersistentStrings>
+            <PersistentString
+               value = "points">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Envelope::tick():PluginWrapper.h">
+         <PersistentStrings>
+            <PersistentString
+               value = "point">
+            </PersistentString>
+            <PersistentString
+               value = "points">
+            </PersistentString>
+            <PersistentString
+               value = "loop">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "JuceAU::JuceAU(ComponentInstanceRecord*):juce_AU_Wrapper.mm">
+      </ContextState>
+      <ContextState
+         contextName = "stk::SineWave::tick():SineWave.h">
+         <PersistentStrings>
+            <PersistentString
+               value = "table_.data_[512]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PluginAudioProcessorEditor::resized():PluginEditor.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "juce::XmlElement::setAttribute(juce::String const&amp;, double):juce_XmlElement.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "MyVoice::process(float**, int, int):SynthPlugin.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "MySynth::initialise():SynthPlugin.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Envelope::resize(int):PluginWrapper.h">
+         <PersistentStrings>
+            <PersistentString
+               value = "points">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
