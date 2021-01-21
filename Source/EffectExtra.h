@@ -118,28 +118,5 @@ private:
 };
 
 
-//void thing()
-//{
-//    float left = 1;
-//    float right = 1;
-//
-//    printf("%f", left);  // shows 1
-//    printf("%f", right); // shows 1
-//
-//    processAndChangeTwoVariables(&left, &right);
-//
-//    printf("%f", left);  // shows 0.2
-//    printf("%f", right); // shows 1.2
-//
-//}
-//
-//void processAndChangeTwoVariables(float* left, float* right)
-//{
-//    *left = *left * 0.2;
-//    *right = *right * 1.2;
-//
-//}
-
-
 
 
