@@ -4,7 +4,7 @@ A dual-band compressor plugin compatible with both mono and stereo inputs, progr
 
 See *Documentation.pdf* for more details.
 
-NOTE: I only had input on 4 files within the respository they are located in the Source folder and titled:
+**NOTE:** I only had input on 4 files within the respository they are located in the Source folder and titled:
 
 * EffectPlugin.h/cpp
 * EffectEditor.h
